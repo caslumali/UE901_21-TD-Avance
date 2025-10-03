@@ -1,0 +1,40 @@
+PROJET_TELEDETECTION/
+├── data/
+│   ├── images/
+│   │   ├── SENTINEL2A_20220209-105857-811_L2A_T31TCJ_C_V3-0/
+│   │   │   ├── DATA/
+│   │   │   ├── MASKS/
+│   │   │   └── ...
+│   │   ├── SENTINEL2B_20220326-105856-076_L2A_T31TCJ_C_V3-0/
+│   │   ├── SENTINEL2B_20220405-105855-542_L2A_T31TCJ_C_V3-0/
+│   │   ├── SENTINEL2B_20220714-105903-040_L2A_T31TCJ_C_V3-0/
+│   │   ├── SENTINEL2B_20220922-105859-863_L2A_T31TCJ_C_V3-1/
+│   │   └── SENTINEL2B_20221111-105858-090_L2A_T31TCJ_C_V3-1/
+│   └── project/
+│       ├── emprise_etude.shp
+│       └── ...
+├── libsigma/
+│   │   │── classification.py
+│   │   │── manipulation_image.py
+│   │   └── ...
+├── groupe_9/
+│   ├── rapport/
+│   │   └── ...
+│   ├── results/
+│   │   ├── data/
+│   │   │   ├── classif/
+│   │   │   │   └── ...
+│   │   │   ├── img_pretraitees/
+│   │   │   │   ├── masque_foret.tif
+│   │   │   │   └── ...
+│   │   │   └── sample/
+│   │   │       ├── Sample_BD_foret_T31TCJ.shp
+│   │   │       └── ...
+│   │   └── figure/
+│   │       ├── diag_baton_nb_poly_by_class.png
+│   │       └── ...
+│   ├── scripts/
+│   │   ├── build_mask.py
+│   │   └── ...
+├── arborescence.txt
+└── .gitignore
