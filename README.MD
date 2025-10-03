@@ -8,7 +8,7 @@
 
 ## 🌍 Project Overview
 
-This project was developed as part of the **UE901 – Advanced Remote Sensing** course within the SIGMA Master’s program (*“Sciences géomatiques en environnement et aménagement”*) at Agro Toulouse / IDGEO.  
+This project was developed as part of the **UE901 – Advanced Remote Sensing** course within the **SIGMA Master’s program** (*“Sciences géomatiques en environnement et aménagement”*), jointly delivered by **Agro Toulouse (ENSAT)** and **Université Toulouse II – Jean Jaurès**.
 
 The objective was to **evaluate the relevance of the French national forest database (BD Forêt V2)** as a source of training samples for supervised classification of forest tree species, using **Sentinel-2 time series** and the **Random Forest algorithm**. The study area covers the **Toulouse region (tile 31TCJ)**.
 
